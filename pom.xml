@@ -426,7 +426,6 @@
                                 <format>html</format>
                                 <format>xml</format>
                             </formats>
-			<optional>true</optional>
                         </configuration>
                     </plugin>
                     <plugin>
